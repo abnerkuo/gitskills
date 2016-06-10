@@ -1,2 +1,2 @@
 adjaldhlajsd 
-news.js
+inews.js
