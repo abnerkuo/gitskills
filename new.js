@@ -1,0 +1,2 @@
+adjaldhlajsd 
+news.js
